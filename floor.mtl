@@ -1,0 +1,57 @@
+# Blender MTL File: 'Bgm2.blend'
+# Material Count: 5
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toha\Dropbox\Public\bgm\Base2Large.png
+
+newmtl None.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toha\Dropbox\Public\bgm\Base2Large.png
+
+newmtl None.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toha\Dropbox\Public\bgm\Base2Large.png
+
+newmtl None.019
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toha\Dropbox\Public\bgm\Base2Large.png
+
+newmtl None.022
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\toha\Dropbox\Public\bgm\Base2Large.png
